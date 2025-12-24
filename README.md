@@ -1,8 +1,13 @@
+<style>
+  .resaltar {
+    background:blue;
+  }
+</style>
 <img align="" alt="banner" width="100%" src="" />
 
 <h3 title="hehehe"> Hola 👋, soy Iria!</h3>
 
-<a href="https://www.linkedin.com/in/iriaalvarezsolis">
+<a class="resaltar" href="https://www.linkedin.com/in/iriaalvarezsolis">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />

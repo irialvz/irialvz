@@ -1,11 +1,6 @@
-<style>
-  .resaltar {
-    background:blue;
-  }
-</style>
 <img align="" alt="banner" width="100%" src="" />
 
-<h3 title="hehehe"> Hola 👋, soy Iria!</h3>
+<h3 title="hehehe"> Hi 👋, I'm Iria!</h3>
 
 <a class="resaltar" href="https://www.linkedin.com/in/iriaalvarezsolis">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,28 +10,30 @@
 
 A **WEB DEVELOPMENT student**  🚀.
 
-  <img align="right" alt="GIF" src="readmePhoto.png" />
+  <img align="right" alt="ilustration" src="readmePhoto.png" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
+- 🌱 I’m currently exploring modern technologies with a big interest in React. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [iriaalvarezsolis@gmail.com](mailto:iriaalvarezsolis@gmail.com).
 
 
 
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+*Learning in progress...*
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -46,6 +43,3 @@ A **WEB DEVELOPMENT student**  🚀.
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
-
-Last Edited on: 04/01/2021

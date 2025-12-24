@@ -27,26 +27,29 @@ A **WEB DEVELOPMENT student**  ☘️.
 
 **Languages and Tools:**  
 <br />
-<br />
 <p align="left">
+  <h3>Backend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php" />
   </a>
 </p>
 <br/>
 <p align="left">
+  <h3>Frontend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
 <br/>
 <p align="left">
+  <h3>Database</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 <br/>
 <p align="left">
+  <h3>Learning in progress...</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
   </a>

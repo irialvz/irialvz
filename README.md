@@ -5,12 +5,13 @@
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </div>
+  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
+
 <br />
 <br />
 
 A **WEB DEVELOPMENT student**  ☘️.
 
-  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 **About Me!**
 

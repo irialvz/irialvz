@@ -10,7 +10,7 @@
 
 A **WEB DEVELOPMENT student**  ☘️.
 
-  <img align="left" alt="ilustration" src="readmePhoto.png" margin="2"/>
+  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 **About Me!**
 
@@ -23,6 +23,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 
 <br />
 <br />
+
 **Languages and Tools:**  
 <br />
 <br />

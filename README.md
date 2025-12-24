@@ -10,7 +10,7 @@
 
 A **WEB DEVELOPMENT student**  🚀.
 
-  <img align="right" alt="ilustration" src="readmePhoto.png" />
+  <img align="left" alt="ilustration" src="readmePhoto.png" />
 
 **About Me!**
 

@@ -1,4 +1,3 @@
-/*<img align="" alt="banner" width="" heigth="50" src="bannerReadme.jpeg" />*/
 <div  style="display: flex; justify-content:row;">
   <h3 title="hehehe"> Hi 👋, I'm Iria!</h3>
 

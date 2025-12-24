@@ -1,8 +1,8 @@
 <div  style="display: flex; justify-content:row;">
-  <h3 title="hehehe"> Hi 👋, I'm Iria!</h3>
+  <h3 title="hehehe"> Hi, I'm Iria!</h3>
 
   <a  href="https://www.linkedin.com/in/iriaalvarezsolis">
-  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </div>
   <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
@@ -25,7 +25,12 @@ A **WEB DEVELOPMENT student**  ☘️.
 <br />
 
 <h2>Languages and Tools:</h2>
-<br />
+<p align="left">
+  <h3>Learning in progress...</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
+  </a>
+</p>
 <p align="left">
   <h3>Backend</h3>
   <a href="https://skillicons.dev">
@@ -45,11 +50,12 @@ A **WEB DEVELOPMENT student**  ☘️.
   </a>
 </p>
 <p align="left">
-  <h3>Learning in progress...</h3>
+  <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
+    <img src="https://skillicons.dev/icons?i=figma,github,docker" />
   </a>
 </p>
+
 
 
 

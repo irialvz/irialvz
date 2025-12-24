@@ -1,8 +1,8 @@
 <img align="" alt="banner" width="100%" src="" />
-<div class="aboutMe" style="display: flex; justify-content:row;">
-<h3 title="hehehe"> Hi 👋, I'm Iria!</h3>
+<div  style="display: flex; justify-content:row;">
+  <h3 title="hehehe"> Hi 👋, I'm Iria!</h3>
 
-<a class="resaltar" href="https://www.linkedin.com/in/iriaalvarezsolis">
+  <a  href="https://www.linkedin.com/in/iriaalvarezsolis">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </div>

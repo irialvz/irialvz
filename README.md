@@ -8,9 +8,9 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT student**  🚀.
+A **WEB DEVELOPMENT student**  ☘️.
 
-  <img align="left" alt="ilustration" src="readmePhoto.png" />
+  <img align="left" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 **About Me!**
 

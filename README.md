@@ -13,7 +13,7 @@
 A **WEB DEVELOPMENT student**  ☘️.
 
 
-##About Me!
+**##About Me!**
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 
@@ -25,7 +25,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <br />
 <br />
 
-##Languages and Tools:
+**##Languages and Tools:**
 <br />
 <p align="left">
   <h3>Backend</h3>

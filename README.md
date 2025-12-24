@@ -13,7 +13,7 @@
 A **WEB DEVELOPMENT student**  ☘️.
 
 
-**About Me!**
+##About Me!
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 
@@ -25,7 +25,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <br />
 <br />
 
-**Languages and Tools:**  
+##Languages and Tools:
 <br />
 <p align="left">
   <h3>Backend</h3>
@@ -33,21 +33,18 @@ A **WEB DEVELOPMENT student**  ☘️.
     <img src="https://skillicons.dev/icons?i=java,php" />
   </a>
 </p>
-<br/>
 <p align="left">
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
-<br/>
 <p align="left">
   <h3>Database</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-<br/>
 <p align="left">
   <h3>Learning in progress...</h3>
   <a href="https://skillicons.dev">

@@ -1,7 +1,7 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <div  style="display: flex; justify-content:row;">
-  <h3 title="hehehe"> Hi, I'm Iria!</h3>
+  <h3 title="hehehe"> My name is Iria!</h3>
 
   <a  href="https://www.linkedin.com/in/iriaalvarezsolis">
   <img align="left" alt="LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />

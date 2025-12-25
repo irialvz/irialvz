@@ -13,9 +13,7 @@
 
 A **WEB DEVELOPMENT student**  ☘️.
 
-<div style="font-size: 24; font-weight: bold; margin-bottom: 20;">
-  About Me!
-</div>
+<h3>About me!</h3>
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 

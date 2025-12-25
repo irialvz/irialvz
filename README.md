@@ -1,5 +1,5 @@
 <div  style="display: flex; justify-content:row;">
-  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
+  <img align="right" alt="ilustration" height="100" src="readmePhoto.png" margin="2"/>
   <h3 title="hehehe"> Hi, I'm Iria!</h3>
 
   <a  href="https://www.linkedin.com/in/iriaalvarezsolis">

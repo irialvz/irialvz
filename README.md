@@ -8,13 +8,14 @@
 
 <br />
 <br />
-  <img align="right" alt="ilustration" height="150" src="readmePhoto.png" margin="2"/>
+  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 
 A **WEB DEVELOPMENT student**  ☘️.
 
-<h2>About Me!</h2>
-
+<div style="font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+  About Me!
+</div>
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 

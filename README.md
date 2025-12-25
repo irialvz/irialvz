@@ -5,7 +5,6 @@
   <img align="left" alt="LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </div>
-  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 <br />
 <br />
@@ -13,6 +12,8 @@
 A **WEB DEVELOPMENT student**  ☘️.
 
 <h2>About Me!</h2>
+  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
+
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 

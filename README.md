@@ -13,7 +13,7 @@
 
 A **WEB DEVELOPMENT student**  ☘️.
 
-<div style="font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+<div style="font-size: 24; font-weight: bold; margin-bottom: 20;">
   About Me!
 </div>
 

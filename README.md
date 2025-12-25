@@ -12,7 +12,6 @@
 A **WEB DEVELOPMENT student**  ☘️.
 
 <h2>About Me!</h2>
-  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 
 - 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
@@ -26,6 +25,8 @@ A **WEB DEVELOPMENT student**  ☘️.
 <br />
 
 <h2>Languages and Tools:</h2>
+  <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
+
 <p align="left">
   <h3>Learning in progress...</h3>
   <a href="https://skillicons.dev">

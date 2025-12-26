@@ -32,7 +32,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <p align="left">
   <h3>Learning in progress...</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,typescript" />
   </a>
 </p>
 <p align="left">

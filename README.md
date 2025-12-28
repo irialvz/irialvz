@@ -25,7 +25,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 
 <h3>Personal Proyects</h3>
 <h5>Small things</h5>
-[website for fictional radio](https://braulau-radioweb.vercel.app/) - School project for the rebroadcasting of the high school radio
+- <a href="https://braulau-radioweb.vercel.app/" target="_blank">WEBSITE FOR FICTITIOUS RADIO<a/> <span> - School project for the rebroadcasting of the high school radio</span>
 
 <br />
 <br />

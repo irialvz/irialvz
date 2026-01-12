@@ -24,7 +24,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 - 📫 Email me at [iriaalvarezsolis@gmail.com](mailto:iriaalvarezsolis@gmail.com).
 
 <h3>Personal Proyects</h3>
-- <a href="https://the-daily-brew.vercel.app/" target="_blank"> ☕ MY COFFEE<a/> <span> - Final course project</span>
+- <a href="https://hellomycoffee.es" target="_blank"> ☕ MY COFFEE<a/> <span> - Final course project</span>
 
 <h5>Small things</h5>
 - <a href="https://braulau-radioweb.vercel.app/" target="_blank">WEBSITE FOR FICTITIOUS RADIO<a/> <span> - School project for the rebroadcasting of the high school radio</span>

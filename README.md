@@ -24,6 +24,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 - 📫 Email me at [iriaalvarezsolis@gmail.com](mailto:iriaalvarezsolis@gmail.com).
 
 <h3>Personal Proyects</h3>
+- <a href="https://iriaalvarez.vercel.app/" target="_blank"> 🙋‍♀️ PORTFOLIO<a/> <span> - Personal portfolio</span>
 - <a href="https://hellomycoffee.es" target="_blank"> ☕ MY COFFEE<a/> <span> - Final course project</span>
 
 <h5>Small things</h5>
@@ -37,7 +38,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <p align="left">
   <h3>Learning in progress...</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
   </a>
 </p>
 <p align="left">

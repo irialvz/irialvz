@@ -49,7 +49,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <p align="left">
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,laravel,javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,laravel,javascript" />
   </a>
 </p>
 <p align="left">

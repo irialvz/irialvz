@@ -43,7 +43,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <p align="left">
   <h3>Backend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,php" />
   </a>
 </p>
 <p align="left">
@@ -55,7 +55,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 <p align="left">
   <h3>Database</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=prisma,mysql" />
   </a>
 </p>
 <p align="left">

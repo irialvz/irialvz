@@ -17,7 +17,7 @@ A **WEB DEVELOPMENT student**  ☘️.
 
 <h3>About me!</h3>
 
-- 👨🏽‍💻 I’m studying DAW. I love to travel and play sports.
+- 👨🏽‍💻 Currently working in <a href="https://www.continero.com/">Continero</a> in Czequia. I love to travel and play sports.
 - 🌱 I’m currently exploring modern technologies with a big interest in React. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!

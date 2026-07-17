@@ -13,7 +13,7 @@
   <img align="right" alt="ilustration" src="readmePhoto.png" margin="2"/>
 
 
-A **WEB DEVELOPMENT student**  ☘️.
+**WEB DEVELOPMENT**  ☘️.
 
 <h3>About me!</h3>
 

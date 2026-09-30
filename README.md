@@ -1,5 +1,3 @@
-![Header](./github-header-banner2.png)
-
 <div  style="display: flex; justify-content:row;">
   <h3 title="hehehe"> My name is Iria!</h3>
 

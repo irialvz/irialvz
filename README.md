@@ -22,8 +22,8 @@
 - 📫 Email me at [iriaalvarezsolis@gmail.com](mailto:iriaalvarezsolis@gmail.com).
 
 <h3>Personal Proyects</h3>
-- <a href="https://iriaalvarez.vercel.app/" target="_blank"> 🙋‍♀️ PORTFOLIO<a/> <span> - Personal portfolio</span>
-- <a href="https://hellomycoffee.es" target="_blank"> ☕ MY COFFEE<a/> <span> - Final course project</span>
+- <a href="https://iriaalvarez.vercel.app/" target="_blank"> 🙋‍♀️ PORTFOLIO<a/> <span> - Personal portfolio</span><br />
+- <a href="https://hellomycoffee.es" target="_blank"> ☕ MY COFFEE<a/> <span> - Final course project</span><br />
 - <a href="https://lovan-utebo.onrender.com" target="_blank"> 🍺 Bar LOVAN<a/> <span> - Spanish bar website</span>
 
 <h5>Small things</h5>
